@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**My GitHub Stats**
+
+![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=jiny798&show_icons=true?username=jiny798&count_private=true)
