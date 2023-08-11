@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 **My GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=jiny798&show_icons=true?username=jiny798&count_private=true)
+
+
+**BOJ**
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=young0415)](https://solved.ac/young0415/)
