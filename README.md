@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-**🦾My favorite skill **
+### 🦾My favorite skill 
 
  ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" /> 
