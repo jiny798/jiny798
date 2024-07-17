@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny798&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=young0415)](https://solved.ac/profile/young0415)
+### 🚌 Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=young0415)](https://solved.ac/profile/young0415)
 
 ![](https://leetcard.jacoblin.cool/jiny798?theme=light,unicorn)
