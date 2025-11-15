@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" /> 
 	[![Socket](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](#)
  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+ [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 <br/>
 
 
